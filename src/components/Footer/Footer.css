@@ -1,0 +1,70 @@
+
+
+.clear {
+    clear: both;
+}
+.contact-details{
+    background-color: #292928;
+}
+.contact-row {
+    width: 25%;
+    padding: 60px 2px;
+    float: left;
+}
+ul{
+    list-style-type: none;
+    
+}
+#text{
+    color:#7F7F7F ;
+    font-size: 23px;
+}
+.link{
+    text-decoration: none; 
+}
+.list{
+    float: right;
+}
+#list{
+    float: left;
+}
+#follow{
+    padding-top: 60px;
+    padding-right:160px;
+    font-size: 24px;
+    text-align: center;
+}
+#social{
+    margin-top:20px ;
+    padding-right:4px;
+    
+}
+#face{
+    color:#7F7F7F;
+    font-size: 25px;
+    
+}
+#linked{
+    color:#7F7F7F;
+    font-size: 25px;
+    
+}
+#twitter{
+    color:#7F7F7F;
+    font-size: 25px;
+}
+#insta{
+    color:#7F7F7F;
+    font-size: 25px;
+}
+#download{
+    color: #FAFAFA;
+    margin-top: 20px;
+    font-size: 13px;
+    float: right;
+}
+#qr{
+    margin-top: 10px;
+    float: right;
+}
+

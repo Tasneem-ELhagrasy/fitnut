@@ -1,0 +1,108 @@
+.input-container {
+    position: relative;
+    margin-bottom: 20px; /* Optional margin for spacing */
+  }
+  
+  .label {
+    position: absolute;
+    top: -15px; /* Adjust this value to position the label as desired */
+    left: 10px; /* Adjust this value to position the label horizontally */
+    background-color: white;
+    padding: 0 5px;
+    font-size: 18px;
+    color:#729900;
+  }
+  
+  #name{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #729900;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  #email{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #729900;
+    border-radius: 4px;
+    box-sizing: border-box;
+   
+}
+  #password{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #729900;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  #rePassword{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #729900;
+    border-radius: 5px;
+    box-sizing: border-box;
+   
+}
+::placeholder{
+      color: #A0A0A0;
+}
+#btnsignup {
+    background-color: #729900;
+}
+
+#social {
+    margin-right: 150px;
+}
+
+
+.line1 {
+    width: 120px;
+    height: 2px;
+    background-color: #C6C6C6;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.word {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #729900;
+
+}
+
+.line2 {
+    width: 120px;
+    height: 2px;
+    background-color: #C6C6C6;
+    ;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+#fa-google {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+}
+
+#fa-facebook {
+    color: blue;
+    background-color: #fff;
+}
+
+#fa-twitter {
+    background-color: #fff;
+    color: #1DA1F2;
+}
+.Already{
+    margin-left: 125px;
+    margin-top: 20px;
+    color: #7F7F7F;
+}
+.lo{
+    text-decoration: none;
+    color: #729900;
+    margin-left: 30px;
+}

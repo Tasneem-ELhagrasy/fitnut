@@ -1,0 +1,42 @@
+
+   
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+   
+  
+  .otp-input {
+    font-size: 24px;
+    border: solid 1px #729900;
+    margin-right: 10px;
+  }
+   
+  .otp-input:last-child {
+    margin-right: 0;
+  }
+   
+  .btn-container {
+    margin-top: 20px;
+    
+  }
+  .btn-container button {
+    border: 1px solid #729900;
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 16px;
+    color: #729900;
+    width: 20%;
+  }
+  .btn-container button:hover {
+    cursor: pointer;
+    background-color: #729900;
+    color: white;
+  }
+  #otp{
+    text-align: center;
+    font-size: 20px;
+    color: #729900;
+    margin-top: 2px;
+    margin-bottom: 9px;
+  }

@@ -1,0 +1,27 @@
+#btnlogin{
+    background-color: #729900;
+}
+.line1 {
+    width: 120px;
+    height: 2px;
+    background-color: #C6C6C6;
+    ;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.word {
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #729900;
+
+}
+
+.line2 {
+    width: 120px;
+    height: 2px;
+    background-color: #C6C6C6;
+    ;
+    margin-top: 5%;
+    margin-left: 4%;
+}
